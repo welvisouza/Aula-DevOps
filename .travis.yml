@@ -6,4 +6,4 @@ before_install:
  - python -m pip install --upgrade pip
 
 script:
- - python gerador de senha.py
+ - python gerador_senha.py
