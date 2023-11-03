@@ -1,5 +1,5 @@
 import string
-import random
+import 
 
 def gerar_senha(tamanho=15):
      = string.ascii_letters + string.digits + string.punctuation
